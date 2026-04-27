@@ -3,7 +3,7 @@
 body {
     font: 16px Helvetica, Sans-Serif;
     line-height: 24px;
-    background: #f4f8ff; /* light blue background */
+    background: #f4f8ff;  /* light blue background */
 }
 
 .clear { clear: both; }
